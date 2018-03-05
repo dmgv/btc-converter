@@ -1,5 +1,5 @@
 {
-  "name": "bitconverter",
+  "name": "diego-bit-converter",
   "version": "1.0.0",
   "description": "A CLI to convert Bitcoin to any currency provided.",
   "main": "index.js",
@@ -14,7 +14,7 @@
   },
   "preferGlobal": true,
   "bin": {
-    "btc-converter": "bin/main.js"
+    "diego-bit-converter": "bin/main.js"
   },
   "nyc": {
     "reporter": [
