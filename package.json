@@ -64,8 +64,10 @@
     "sinon-chai": "^2.14.0"
   },
   "dependencies": {
+    "chalk": "^2.3.2",
     "commander": "^2.14.1",
     "eslint-config-prettier": "^2.9.0",
+    "ora": "^2.0.0",
     "prettier": "^1.10.2",
     "request": "^2.83.0"
   }
